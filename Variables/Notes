@@ -1,0 +1,4 @@
+1. let and const are variable containers.
+2. Datatype belongs to value, not variable.
+3. Use const by default.
+4. const locks reference, not object.
