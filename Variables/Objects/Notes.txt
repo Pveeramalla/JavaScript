@@ -1,0 +1,1 @@
+JavaScript supports object creation same as Java using classes and new keyword, but also supports simpler ways like object literals and factory functions.
